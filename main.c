@@ -7,7 +7,9 @@ Initial Function()
 
 Initial Security()
 {
+<<<<<<< HEAD
  security from feature2
+
 }
 
 
